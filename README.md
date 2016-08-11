@@ -5,7 +5,9 @@
 Challenge
 ----
 
-This was a coding challenge to apply for a job at Trello. The goal is to "Get Taco's Recommendation", by having it print your name when the button is pressed. You can't change any of the JavaScript, just work with the URL.
+This was a coding challenge to apply for a job at Trello: <http://taco-spolsky.github.io/>
+
+The goal is to "Get Taco's Recommendation", by having it print your name when the button is pressed. You can't change any of the JavaScript, just work with the URL.
 
 
 What I learned
